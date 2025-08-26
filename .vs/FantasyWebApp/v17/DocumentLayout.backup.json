@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PipeLine_proj\\FantasyWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA5E582-B83E-417B-B65F-1BA537526B5F}|TestProject1\\TestProject1.csproj|d:\\pipeline_proj\\fantasywebapp\\testproject1\\tests\\playerpagemodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA5E582-B83E-417B-B65F-1BA537526B5F}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\tests\\playerpagemodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|d:\\pipeline_proj\\fantasywebapp\\fantasywebapp\\data\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\data\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|d:\\pipeline_proj\\fantasywebapp\\fantasywebapp\\pages\\players\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\pages\\players\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|d:\\pipeline_proj\\fantasywebapp\\fantasywebapp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|d:\\pipeline_proj\\fantasywebapp\\fantasywebapp\\pages\\players\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\pages\\players\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|d:\\pipeline_proj\\fantasywebapp\\fantasywebapp\\pages\\players\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\pages\\players\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|d:\\pipeline_proj\\fantasywebapp\\fantasywebapp\\pages\\players\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\pages\\players\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|d:\\pipeline_proj\\fantasywebapp\\fantasywebapp\\pages\\players\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\pages\\players\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|d:\\pipeline_proj\\fantasywebapp\\fantasywebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2415B4-2735-41E6-B62F-545CB2EAC790}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerPageModelTests.cs",
+              "DocumentMoniker": "D:\\PipeLine_proj\\FantasyWebApp\\TestProject1\\Tests\\PlayerPageModelTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Tests\\PlayerPageModelTests.cs",
+              "ToolTip": "D:\\PipeLine_proj\\FantasyWebApp\\TestProject1\\Tests\\PlayerPageModelTests.cs",
+              "RelativeToolTip": "TestProject1\\Tests\\PlayerPageModelTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:28:47.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Data\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Data\\PlayerRepository.cs",
+              "ToolTip": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Data\\PlayerRepository.cs",
+              "RelativeToolTip": "FantasyWebApp\\Data\\PlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:28:20.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Models\\Player.cs",
+              "ToolTip": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Models\\Player.cs",
+              "RelativeToolTip": "FantasyWebApp\\Models\\Player.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:27:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Players\\Create.cshtml",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Pages\\Players\\Create.cshtml",
+              "ToolTip": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Players\\Create.cshtml",
+              "RelativeToolTip": "FantasyWebApp\\Pages\\Players\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:26:06.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Players\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Pages\\Players\\Delete.cshtml",
+              "ToolTip": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Players\\Delete.cshtml",
+              "RelativeToolTip": "FantasyWebApp\\Pages\\Players\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:24:53.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Players\\Details.cshtml",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Pages\\Players\\Details.cshtml",
+              "ToolTip": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Players\\Details.cshtml",
+              "RelativeToolTip": "FantasyWebApp\\Pages\\Players\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:21:57.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Players\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Pages\\Players\\Edit.cshtml",
+              "ToolTip": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Players\\Edit.cshtml",
+              "RelativeToolTip": "FantasyWebApp\\Pages\\Players\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:20:49.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Players\\Index.cshtml",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Pages\\Players\\Index.cshtml",
+              "ToolTip": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Players\\Index.cshtml",
+              "RelativeToolTip": "FantasyWebApp\\Pages\\Players\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:20:43.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PipeLine_proj\\FantasyWebApp\\FantasyWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FantasyWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:18:52.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
